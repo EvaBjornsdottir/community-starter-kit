@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This is an exercise
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Understanding the readme.md file
 
 ## Getting started
 
